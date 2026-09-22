@@ -1,0 +1,24 @@
+{
+  "name": "TCF26 Connected Travel Agenda",
+  "short_name": "TCF26 Agenda",
+  "description": "Snappy, interactive, mobile agenda for TCF26 Smart Transport Forum Manchester",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070b14",
+  "theme_color": "#0d1b2a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
